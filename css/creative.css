@@ -310,3 +310,18 @@ header.masthead p {
 .btn-primary:active, .btn-primary:focus {
   box-shadow: 0 0 0 0.2rem rgba(240, 95, 64, 0.5) !important;
 }
+
+.social-icon {
+  margin-right: 0.2em;
+  margin-left: 0.2em;
+  text-decoration: none !important;
+}
+
+.social-icon > i:hover {
+  color: #f05f40 !important;
+}
+
+.social-icon > i {
+  transition: 0.3s !important;
+  vertical-align: middle;
+}
